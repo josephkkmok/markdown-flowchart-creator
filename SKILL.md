@@ -1,14 +1,26 @@
+---
+name: flowchart-creator
+description: Create HTML flowcharts and process diagrams with decision trees, color-coded stages, arrows, and swimlanes. Use when users request flowcharts, process diagrams, workflow visualizations, or decision trees.
+license: MIT
+metadata:
+  author: Joseph Mok
+  tags: flowchart, diagram, visualization, process, workflow, decision-tree
+---
+
 # Markdown Flowchart Creator
 
-Create comprehensive Markdown flowcharts with ASCII diagrams, detailed explanations, and real-world examples.
+## Overview
 
-## When to Use
+Create comprehensive Markdown flowcharts with ASCII diagrams, detailed explanations, and real-world examples. This skill produces documentation-style flowcharts that combine visual flow diagrams with contextual information.
 
-- "Create a flowchart in markdown for [process]"
-- "Generate a flow diagram as markdown"
-- "Make an ASCII flowchart for [workflow]"
-- "Document the flow of [system/process]"
-- "Show me how [process] works in markdown"
+## When to Apply
+
+Reference this skill when:
+- User requests "Create a flowchart in markdown for [process]"
+- User asks to "Generate a flow diagram as markdown"
+- User wants to "Make an ASCII flowchart for [workflow]"
+- User needs to "Document the flow of [system/process]"
+- User says "Show me how [process] works in markdown"
 
 ## Key Characteristics
 
@@ -20,7 +32,9 @@ This skill creates **documentation-style flowcharts** that combine:
 5. Benefits and trade-offs
 6. Maintenance commands (when applicable)
 
-## Document Structure
+## Quick Reference
+
+### Document Structure Template
 
 ```markdown
 # 🔒 [Process Name] Flow Diagram
