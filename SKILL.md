@@ -1,10 +1,9 @@
 ---
-name: flowchart-creator
-description: Create HTML flowcharts and process diagrams with decision trees, color-coded stages, arrows, and swimlanes. Use when users request flowcharts, process diagrams, workflow visualizations, or decision trees.
+name: markdown-flowchart-creator
+description: Create Markdown flowcharts with ASCII diagrams, decision trees, color-coded sections, and detailed explanations. Use when users request markdown flowcharts, ASCII diagrams, process documentation, workflow visualizations, or decision trees in markdown format.
 license: MIT
 metadata:
-  author: Joseph Mok
-  tags: flowchart, diagram, visualization, process, workflow, decision-tree
+  tags: flowchart, diagram, visualization, process, workflow, decision-tree, markdown, ascii
 ---
 
 # Markdown Flowchart Creator
